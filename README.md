@@ -53,6 +53,4 @@ The program utilizes Java’s built-in `java.io` package, which provides various
 Additionally, exception handling using `try-with-resources` ensures proper resource management and prevents memory leaks.
 
 ## Outputs
-![File Writing Output](https://github.com/user-attachments/assets/23474fb2-0edd-4242-8cdc-dbfba48a022d)  
-![File Reading Output](https://github.com/user-attachments/assets/9249d0c8-f223-4d26-964e-6438ba8d6161)
-
+![Image](https://github.com/user-attachments/assets/3dfee224-1a13-4503-86c8-399d2ca14be8)
